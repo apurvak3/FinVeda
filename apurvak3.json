@@ -1,0 +1,16 @@
+{
+    "name": "Apurva",
+    "location": "Bihar,India",
+    "bio": "Passionate and dedicated Web Developer with a proven track record of creating responsive and user-friendly web applications.
+    Dedicated DevOps Engineer as well. Strong problem-solving abilities combined with a proactive approach to identify and resolve issues promptly, ensuring seamless operations across development, testing, and production environments.
+    ",
+    "avatar": "https://github.com/<apurvak3>.png",
+    "portfolio": "https://github.com/apurvak3",
+    "skills": ["Java", "Html", "css","javascript","NodeJs","Reactjs","MongoDB"],
+    "social": {
+      "GitHub": "https://github.com/apurvak3",
+      "Twitter": "https://twitter.com/KanthApurva",
+      "LinkedIn": "https://www.linkedin.com/in/apurva-kanth-643672250/"
+    }
+  }
+  
